@@ -94,9 +94,3 @@ Antes de começar, certifique-se de que você tenha os seguintes softwares insta
 
 * Teste todas as funcionalidades da aplicação para garantir que tudo esteja funcionando corretamente.
 * Verifique se as mensagens de feedback são exibidas corretamente.
-
-## Observações
-
-* Certifique-se de que os serviços Apache e MySQL estejam em execução antes de acessar a aplicação.
-* Se você encontrar algum problema, verifique as credenciais do banco de dados e as configurações do servidor.
-* Você pode personalizar a aplicação adicionando mais funcionalidades, estilos e interatividade.
